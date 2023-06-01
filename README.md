@@ -1,5 +1,13 @@
 # Credit-Card-Fraud-Detection-using-ML-models
 This dataset is used to detect the credit card fraud detection. This is a classification problem. This is an imbalanced dataset based on target variable. So In this Project, I will use encoding and decoding techniques to balanced dataset.
+These are various techniques as follows -
+
+* Logistics Regression 
+* Random Forest
+* Decision Tree
+* NaiveBias
+* KNN
+
 
 # About Dataset¶
 Digital payments are evolving, but so are cyber criminals.
@@ -8,6 +16,17 @@ According to the Data Breach Index, more than 5 million records are being stolen
 
 In today’s digital world where trillions of Card transaction happens per day, detection of fraud is challenging.
 This Dataset sourced by some unnamed institute.
+
+Challenges
+
+These are various techniques as follows -
+
+Cross Validation Like KFOLD and Hyperparameter Tuning (Logistics Regression )
+Ensemble Technique - Random Forest
+Under Sampling
+Over Sampling
+SMOTETomek
+Ensemple Technique - EasyEnsembleClassifier
 
 # Feature Explanation:
 distance_from_home - the distance from home where the transaction happened.
