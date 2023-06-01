@@ -17,16 +17,6 @@ According to the Data Breach Index, more than 5 million records are being stolen
 In today’s digital world where trillions of Card transaction happens per day, detection of fraud is challenging.
 This Dataset sourced by some unnamed institute.
 
-Challenges
-
-These are various techniques as follows -
-
-Cross Validation Like KFOLD and Hyperparameter Tuning (Logistics Regression )
-Ensemble Technique - Random Forest
-Under Sampling
-Over Sampling
-SMOTETomek
-Ensemple Technique - EasyEnsembleClassifier
 
 # Feature Explanation:
 distance_from_home - the distance from home where the transaction happened.
