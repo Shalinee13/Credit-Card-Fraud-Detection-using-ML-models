@@ -56,5 +56,6 @@ This is the final step at which we can try different models and fine-tune their 
 ## Model Evaluation:
 We need to evaluate the models using appropriate evaluation metrics. Note that since the data is imbalanced it is is more important to identify which are fraudulent transactions accurately than the non-fraudulent. We need to choose an appropriate evaluation metric which reflects this business goal.
 
-## project by Shalinee Kumari
+## Guided by Shalini kumari
+## Submitted by Shalinee Kumari
 
